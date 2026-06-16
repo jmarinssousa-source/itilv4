@@ -5,4 +5,5 @@ dev-server.err.log
 tunnel.log
 tunnel.err.log
 .vercel/
+tools/
 *.local
